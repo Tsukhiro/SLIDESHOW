@@ -12,4 +12,4 @@
 
 ### Agradecimento ✔️
 
-◼️ Projeto elaborado com o auxílio do Higor Feijó através de vídeos do YouTube.
+◼️ Projeto elaborado com o auxílio do canal Além do Código através de video no YouTube.
